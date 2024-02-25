@@ -14,4 +14,9 @@ Plus, your data is super secure. PharmaQuill isn't just an app, it's a healthcar
 5. Healthcare at your fingertips: Manage prescriptions, find meds, access doctors – it's all in the user-friendly app. Convenience at its finest!
 
 # Installation
-`git clone https://github.com/rubykar/PharmaQuill-App.git`
+- `git clone https://github.com/rubykar/PharmaQuill-App.git`
+- Install Flutter: if you haven't already, download and install Flutter on your system. Follow the installation guide for your specific operating system on the Flutter website.
+- Open a terminal or command prompt and navigate to the project directory. Run the command flutter pub to install all dependencies listed in the project's pubspec.yaml file.
+- Set up an emulator or connect a physical device: You can use an emulator to run the app or connect a physical device. To set up an emulator, open Android Studio and select AVD Manager from the Tools menu. Follow the prompts to create and start an emulator. To connect a physical device, follow the instructions provided by your device manufacturer.
+- Run the app: To run the app, open a terminal or command prompt and navigate to your project directory. Run the command flutter run. If you're using an emulator or physical device, make sure it's connected and   recognized by Flutter.
+
