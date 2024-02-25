@@ -14,4 +14,4 @@ Plus, your data is super secure. PharmaQuill isn't just an app, it's a healthcar
 -Healthcare at your fingertips: Manage prescriptions, find meds, access doctors – it's all in the user-friendly app. Convenience at its finest!
 
 # Installation
-``
+`git clone https://github.com/rubykar/PharmaQuill-App.git`
