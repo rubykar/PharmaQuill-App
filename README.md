@@ -21,11 +21,13 @@ Plus, your data is super secure. PharmaQuill isn't just an app, it's a healthcar
 - Run the app: To run the app, open a terminal or command prompt and navigate to your project directory. Run the command flutter run. If you're using an emulator or physical device, make sure it's connected and   recognized by Flutter.
 
 # NOTE
-The project PharamaQuill has two submodules:-
-- Admin Portal
+**The project PharamaQuill has two submodules**:-
+- _Admin Portal_
     [https://github.com/Google-Solutions-Challenge/admin-portal]
-- PharmaQuill Apis
+- _PharmaQuill Apis_
     [https://github.com/LunaticPython2003/PharmaQuill]
+
+**These submodules are mandatory requirements for our projects and are linked with this repository**
 
 
 
